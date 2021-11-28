@@ -40,6 +40,8 @@ $ pip install -r
 
 - Dataset
 
+> You can download whole dataset from [google drive](https://drive.google.com/file/d/1TAfWtRUx9GWePiC-44JHdzZcemKdJCFv/view?usp=sharing)
+
 > Dataset should be placed on outside of this repository
 
 ```yaml
