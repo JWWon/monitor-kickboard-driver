@@ -1,0 +1,1 @@
+year_month_date hour_min_sec detected_helmet detected_person inference_time cpu_usage memory_usage
