@@ -78,7 +78,7 @@ $ python3 detect_violation_onnx.py
 
 ### Sequence Diagram
 각 스크립트의 작동을 나타낸 시퀀스 다이어그램입니다.
-![image](./readme_img/sd.jpg)
+![image](./readme_img/sd.gif)
 
 
 ### Results
