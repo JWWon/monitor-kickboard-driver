@@ -6,7 +6,7 @@ cycler==0.11.0
 flatbuffers==20181003210633
 google-auth==2.3.3
 google-auth-oauthlib==0.4.6
-grpcio==1.41.1
+grpcio==1.42.0
 idna==3.3
 importlib-metadata==4.8.1
 kiwisolver==1.3.2
