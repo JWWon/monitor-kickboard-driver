@@ -106,10 +106,17 @@ names: ['Helmet', 'Person']
 - Trained models
 /trained_weights 폴더에서 날짜별로 정리된 예전 버전의 weight 파일들을 확인하실 수 있습니다.
 
-## Conclusion
+## Demo
 
-* detect_violation_onnx.py 구동 스크린샷
+* detect_violation_onnx.py 구동 화면
 ![image](./readme_img/model_test.gif)
+
+* 헬멧 미착용 탐지 영상
+https://user-images.githubusercontent.com/80512975/146167315-ceb0745f-e181-437e-bfd0-0f9ac3c2dc26.mp4
+
+* 동승자 탐지 영상
+https://user-images.githubusercontent.com/80512975/146167364-f9da8d7e-b85e-4c02-b386-281ac7906b9d.mp4
+
 
 ### References
 
