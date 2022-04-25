@@ -4,7 +4,7 @@ certifi==2021.10.8
 charset-normalizer==2.0.7
 cycler==0.11.0
 flatbuffers==20181003210633
-google-auth==2.3.3
+google-auth==2.6.6
 google-auth-oauthlib==0.4.6
 grpcio==1.41.1
 idna==3.3
