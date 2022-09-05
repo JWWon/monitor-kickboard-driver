@@ -37,7 +37,7 @@ ruamel.yaml==0.17.17
 ruamel.yaml.clib==0.2.6
 scipy==1.7.1
 seaborn==0.11.2
-sip==4.19.24
+sip==6.6.2
 six==1.16.0
 tensorboard==2.7.0
 tensorboard-data-server==0.6.1
