@@ -1,7 +1,7 @@
 absl-py==0.15.0
 cachetools==4.2.4
 certifi==2021.10.8
-charset-normalizer==2.0.7
+charset-normalizer==2.1.1
 cycler==0.11.0
 flatbuffers==20181003210633
 google-auth==2.3.3
