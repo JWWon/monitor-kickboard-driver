@@ -39,7 +39,7 @@ scipy==1.7.1
 seaborn==0.11.2
 sip==4.19.24
 six==1.16.0
-tensorboard==2.7.0
+tensorboard==2.11.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
 thop==0.0.31.post2005241907
