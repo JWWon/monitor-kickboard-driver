@@ -46,6 +46,6 @@ thop==0.0.31.post2005241907
 toml==0.10.2
 tqdm==4.62.3
 typing-extensions==3.10.0.2
-urllib3==1.26.7
+urllib3==1.26.14
 Werkzeug==2.0.2
 zipp==3.6.0
